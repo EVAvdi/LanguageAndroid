@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LanguageAndroid</string>
+    <string-array name="languages">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+    <string name="Dumboldor">
+        Меня всегда забавляло то,\n какими странными путями порой следуют человеческие мысли.\n
+        (&#169;)Альбус Дамболдор
+    </string>
+</resources>
